@@ -2,3 +2,5 @@ known_faces/
 .idea/
 test.py
 
+__pycache__/
+face_model.h5
